@@ -31,13 +31,13 @@
 我们为不同平台准备了官方一键客户端：
 
 * 📱 **Android 客户端**
-  [stableproxy-android](https://download2.solidproxy.top/stableproxy/android/1.6.4/stableproxy-android.zip)
+  [stableproxy-android](https://download.solidres.xyz/stableproxy/android/1.6.4/stableproxy-android.zip)
 
 * 🖥️ **Windows 客户端**
-  [stableproxy-windows](https://download2.solidproxy.top/stableproxy/windows/1.6.4/stableproxy-windows.zip)
+  [stableproxy-windows](https://download.solidres.xyz/stableproxy/windows/1.6.4/stableproxy-windows.zip)
 
 * 🍎 **macOS 客户端**
-  [stableproxy-macos](https://download2.solidproxy.top/stableproxy/macos/1.6.4/stableproxy-macos.zip)
+  [stableproxy-macos](https://download.solidres.xyz/stableproxy/macos/1.6.4/stableproxy-macos.zip)
 
 ---
 
